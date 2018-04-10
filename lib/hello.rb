@@ -4,8 +4,9 @@ def hello_t(array)
     # yield array[i]
     if array[i].start_with?("T")
     puts "Hi, #{array[i]}"
+      end
     i += 1
-  end
+
 end
 end
 
