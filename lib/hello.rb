@@ -18,4 +18,4 @@ end
 #     puts "Hi, #{name}"
 #   end
 # end
-hello_t(array)
+hello_t(["Tom", "James", "Tim"])
